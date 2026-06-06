@@ -1,3 +1,6 @@
+#PROJET_REALISER_PAR:
+YASSINE ALAHYANE & MOHAMED KAOUTHAR & ABDELMOUNIM KHODJI 4CIR-G2
+
 # API de Scan Reseau (Django + DRF)
 
 Backend de scan reseau pour projet cybersecurite, avec architecture propre (MVC + couche service).
